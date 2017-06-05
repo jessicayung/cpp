@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4C62C7121EE5F14500B2BCF3"
-               BuildableName = "4-classes"
-               BlueprintName = "4-classes"
-               ReferencedContainer = "container:4-classes.xcodeproj">
+               BlueprintIdentifier = "4C62C74E1EE5F62F00B2BCF3"
+               BuildableName = "31-classes"
+               BlueprintName = "31-classes"
+               ReferencedContainer = "container:31-classes.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C62C7121EE5F14500B2BCF3"
-            BuildableName = "4-classes"
-            BlueprintName = "4-classes"
-            ReferencedContainer = "container:4-classes.xcodeproj">
+            BlueprintIdentifier = "4C62C74E1EE5F62F00B2BCF3"
+            BuildableName = "31-classes"
+            BlueprintName = "31-classes"
+            ReferencedContainer = "container:31-classes.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C62C7121EE5F14500B2BCF3"
-            BuildableName = "4-classes"
-            BlueprintName = "4-classes"
-            ReferencedContainer = "container:4-classes.xcodeproj">
+            BlueprintIdentifier = "4C62C74E1EE5F62F00B2BCF3"
+            BuildableName = "31-classes"
+            BlueprintName = "31-classes"
+            ReferencedContainer = "container:31-classes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C62C7121EE5F14500B2BCF3"
-            BuildableName = "4-classes"
-            BlueprintName = "4-classes"
-            ReferencedContainer = "container:4-classes.xcodeproj">
+            BlueprintIdentifier = "4C62C74E1EE5F62F00B2BCF3"
+            BuildableName = "31-classes"
+            BlueprintName = "31-classes"
+            ReferencedContainer = "container:31-classes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
