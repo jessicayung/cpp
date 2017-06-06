@@ -7,9 +7,26 @@
 //
 
 #include <iostream>
+#include "Cat.hpp"
 
 int main(int argc, const char * argv[]) {
-  // insert code here...
-  std::cout << "Hello, World!\n";
-    return 0;
+  Cat tiger;
+  // this is bad
+  tiger.happiness = false;
+  
+  // don't want to set values of variables outside the class, want to
+  // encapsulate so we only have to recode the class instead of changing
+  // external code as well. so give Class a method that can set the
+  // value of a state
+
+  tiger.makeHappy();
+  tiger.Speak();
+  
+  Cat jaguar;
+  // if you don't initialise variables before you use them,
+  // they'll just have random values
+  // usually initialise vars using constructors
+  jaguar.makeSad();
+  jaguar.Speak();
+  return 0;
 }
