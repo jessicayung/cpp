@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4C41496D1F042F55006CD86D"
-               BuildableName = "57-static-references"
-               BlueprintName = "57-static-references"
-               ReferencedContainer = "container:57-static-references.xcodeproj">
+               BlueprintIdentifier = "4C4149931F04F5CD006CD86D"
+               BuildableName = "pointers-summary"
+               BlueprintName = "pointers-summary"
+               ReferencedContainer = "container:pointers-summary.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C41496D1F042F55006CD86D"
-            BuildableName = "57-static-references"
-            BlueprintName = "57-static-references"
-            ReferencedContainer = "container:57-static-references.xcodeproj">
+            BlueprintIdentifier = "4C4149931F04F5CD006CD86D"
+            BuildableName = "pointers-summary"
+            BlueprintName = "pointers-summary"
+            ReferencedContainer = "container:pointers-summary.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C41496D1F042F55006CD86D"
-            BuildableName = "57-static-references"
-            BlueprintName = "57-static-references"
-            ReferencedContainer = "container:57-static-references.xcodeproj">
+            BlueprintIdentifier = "4C4149931F04F5CD006CD86D"
+            BuildableName = "pointers-summary"
+            BlueprintName = "pointers-summary"
+            ReferencedContainer = "container:pointers-summary.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C41496D1F042F55006CD86D"
-            BuildableName = "57-static-references"
-            BlueprintName = "57-static-references"
-            ReferencedContainer = "container:57-static-references.xcodeproj">
+            BlueprintIdentifier = "4C4149931F04F5CD006CD86D"
+            BuildableName = "pointers-summary"
+            BlueprintName = "pointers-summary"
+            ReferencedContainer = "container:pointers-summary.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

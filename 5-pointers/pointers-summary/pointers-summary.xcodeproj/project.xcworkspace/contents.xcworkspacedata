@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:57-static-references.xcodeproj">
+      location = "self:pointers-summary.xcodeproj">
    </FileRef>
 </Workspace>
